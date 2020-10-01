@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook VAIO",
+      "price": 799.9
+    },
+    {
+      "id": 3,
+      "name": "Samsung Smart tv",
+      "price": 2799.9
+    },
+    {
+      "id": 4,
+      "name": "Notebook Mac Pro",
+      "price": 12000.00
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy S20",
+      "price": 5000.00
+
+    }
+  ]
+}
